@@ -26,7 +26,7 @@ public class TxDao {
     }
 
 
-    public Iterable<String> getAllUsernames() {
+    public List<String> getAllUsernames() {
         return users.stream()
                 .map(user -> user.getAccName())
                 .collect(Collectors.toList());
