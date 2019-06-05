@@ -3,3 +3,4 @@ target/
 .idea/Javalin-RestApi.iml
 .idea/compiler.xml
 .idea/misc.xml
+.idea/workspace.xml
