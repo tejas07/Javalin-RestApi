@@ -2,14 +2,14 @@
 Building rest api using javalin, Javalin is a lightweight framework an alternative to
 build microservices.
 
-#API-Details
+# API-Details
 
  **/fetch-account-holders** : Retrives list of all the account holders.<br />
  **/fetch-individual-account/:accountno**: Retrives account info w.r.t account no.<br />
  **/transfer-money**: Account holders can transfer money to other account.<br />
  **/create-account**: New account can be created.<br />
  
- #Json Specifications
+ # Json Specifications
  
  **To create account** <br />
 ` localhost:7000/create-account
