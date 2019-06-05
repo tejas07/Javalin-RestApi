@@ -1,0 +1,5 @@
+.idea/*
+target/
+.idea/Javalin-RestApi.iml
+.idea/compiler.xml
+.idea/misc.xml
