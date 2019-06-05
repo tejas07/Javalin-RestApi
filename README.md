@@ -31,9 +31,11 @@ build microservices.
  `localhost:7000//fetch-individual-account/1`<br />
  
  #Stack used 
- 1. Java
+ 1. Java 8
  2. Javalin Framework
  3. Maven
  4. Git
+ 5. Intellij
+ 5. Lombok
  
  
