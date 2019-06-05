@@ -30,6 +30,10 @@ build microservices.
  **To fetch individual account**<br /> 
  `localhost:7000//fetch-individual-account/1`<br />
  
- 
+ #Stack used 
+ 1. Java
+ 2. Javalin Framework
+ 3. Maven
+ 4. Git
  
  
